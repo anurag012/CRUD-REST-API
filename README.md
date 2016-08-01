@@ -17,7 +17,7 @@ This class creates beans for database connection, entity manager factory. Also, 
 for database, set driver, url, username, password.
 
 ## CORSFilter.java
-This class enables the CORS(cross origin resource sharing) so that this api can be used with any platform and any frontend appliation.
+This class enables the **CORS**(cross origin resource sharing) so that this api can be used with any platform and any frontend appliation.
 
 ## AppInitializer.java
 This class combines all the configuration classes, allows you to specify text that you want to include in URL (e.g. "/api/").
